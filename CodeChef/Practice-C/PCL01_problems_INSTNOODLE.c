@@ -24,8 +24,6 @@ int main(void) {
     {
         printf("%d", X * Y); 
         //print maximum number of customers
-    } else {
-        printf("Inputs are out of range.\n");
     }
     return 0;
 }
