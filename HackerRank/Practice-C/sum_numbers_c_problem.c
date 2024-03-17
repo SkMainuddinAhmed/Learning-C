@@ -7,7 +7,7 @@ Use the +  and - operator to perform the following operations:
 Print the sum and difference of two int variable on a new line.
 Print the sum and difference of two float variable rounded to one decimal place on a new line.
 Input Format
-The first line contains two integers.
+The first line contains two integers
 The second line contains two floating point numbers.*/
 #include <stdio.h>
 #include <string.h>
