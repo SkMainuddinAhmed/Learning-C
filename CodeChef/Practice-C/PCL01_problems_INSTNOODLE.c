@@ -23,7 +23,7 @@ int main(void) {
     //verify input in range or not
     {
         printf("%d", X * Y); 
-        //print maximum number of customers.
+        //print maximum number of customers
     }
     return 0;
 }
